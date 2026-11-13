@@ -10,10 +10,9 @@ from input data" or "managing a database of livestock breed records"].
 
 ## Features
 
-- [Feature 1 — e.g. Breed classification]
-- [Feature 2 — e.g. Search and filter breeds by category]
-- [Feature 3 — e.g. Add, edit, and delete breed records]
-- [Add or remove features to match your actual project]
+-  Breed classification]
+-  Search and filter breeds by category]
+-  Add, edit, and delete breed records]
 
 ## Tech Stack
 
